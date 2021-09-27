@@ -1,1 +1,6 @@
-![Some code.webp](https://github.com/furtivite/furtivite/raw/master/giphy.webp)
+Закрашиваю квадратики зелёным. 
+
+<picture>
+  <source srcset="img/night.png" media="(prefers-color-scheme: dark)">
+  <img src="img/day.png" alt="">
+</picture>
