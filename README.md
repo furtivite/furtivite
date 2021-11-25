@@ -1,6 +1,4 @@
 Закрашиваю квадратики зелёным. 
 
-<picture>
-  <source srcset="img/night.png" media="(prefers-color-scheme: dark)">
-  <img src="img/day.png" alt="">
-</picture>
+![Ночью](img/night.png#gh-dark-mode-only)
+![Днём](img/day.png#gh-light-mode-only)
