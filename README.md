@@ -10,3 +10,5 @@ I am a front-end developer who focuses on HTML and CSS. Worked with online store
 *   🧠  I'm learning a11ty, JS
 *   🤝  I'm open to collaborating on cool open-source projects
 *   ⚡  I am open to new career opportunities.
+
+[![An image of @furtivite's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/furtivite)](https://holopin.io/@furtivite)
